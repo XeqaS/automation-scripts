@@ -17,9 +17,13 @@ Tutaj organizuję, rozwijam i aktualizuję swoje narzędzia, aby były jak najba
 - [SentimentAnalyzer](https://github.com/twoj-user/sentiment-analyzer) – Analiza nastroju opinii klientów - 🟡 W trakcie
 
 ## 🔄 DevOps i automatyzacja procesów
-- [BackupManager](https://github.com/twoj-user/backup-manager) – Automatyczne backupy danych 
+- [xVPS-Setup](https://github.com/XeqaS/vps_xsetup) - Skrypty do automatyzacji konfiguracji - ✅ Aktywne
+- [xPostgresql](https://github.com/XeqaS/postgresql-docker-setup) - Skrypt do postawienie Postgresql w Docker - ✅ Aktywne
+- [BackupManager](https://github.com/twoj-user/backup-manager) – Automatyczne backupy danych - 🟡 W trakcie
 - [TaskScheduler](https://github.com/twoj-user/task-scheduler) – Harmonogramowanie i zarządzanie zadaniami cron - 🟡 W trakcie
 
+## ⚠️ Wstrzymane
+- [xKrypto](https://github.com/XeqaS/kursy-krypto) - Pobieranie kursów i wysyłanie na kanał Discord
 ---
 
 📌 **W planach:**  
