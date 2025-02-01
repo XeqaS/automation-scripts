@@ -22,6 +22,9 @@ Tutaj organizuję, rozwijam i aktualizuję swoje narzędzia, aby były jak najba
 - [BackupManager](https://github.com/twoj-user/backup-manager) – Automatyczne backupy danych - 🟡 W trakcie
 - [TaskScheduler](https://github.com/twoj-user/task-scheduler) – Harmonogramowanie i zarządzanie zadaniami cron - 🟡 W trakcie
 
+## 🛠️ Pozostałe
+- [xEmailFooter](https://github.com/XeqaS/generator-email-footer-asana_api) - Pobieranie danych danych za pomocą API, i tworzenie stopki mailowej na podstawie szablonu - ✅ Aktywne
+
 ## ⚠️ Wstrzymane
 - [xKrypto](https://github.com/XeqaS/kursy-krypto) - Pobieranie kursów i wysyłanie na kanał Discord
 ---
