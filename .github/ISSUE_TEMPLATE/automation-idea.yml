@@ -1,0 +1,28 @@
+name: "💡 Nowa propozycja automatyzacji"
+description: "Zaproponuj nowy skrypt do automatyzacji"
+title: "[Pomysł] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: opis
+    attributes:
+      label: "📌 Opis"
+      description: "Krótko opisz, co robi ta automatyzacja i w jakim celu."
+      placeholder: "Przykład: Skrypt do pobierania i optymalizacji zdjęć produktów."
+  - type: textarea
+    id: problem
+    attributes:
+      label: "🔍 Jaki problem rozwiązuje?"
+      description: "Jakie zadanie eliminuje lub ułatwia?"
+      placeholder: "Przykład: Aktualnie zdjęcia trzeba pobierać i edytować ręcznie."
+  - type: textarea
+    id: technologie
+    attributes:
+      label: "🛠️ Technologie do użycia"
+      description: "Jakie języki, biblioteki, API będą potrzebne?"
+      placeholder: "Python, OpenCV, Selenium..."
+  - type: textarea
+    id: uwagi
+    attributes:
+      label: "📌 Dodatkowe uwagi"
+      description: "Cokolwiek jeszcze warto dodać?"
