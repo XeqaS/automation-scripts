@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💡 Zaproponuj nową automatyzację
-    url: https://github.com/twoj-user/automation-hub/issues/new?assignees=&labels=enhancement&template=automation-idea.yml&title=%5BPomys%C5%82%5D+
+    url: https://github.com/xeqas/xAutomationHub/issues/new?assignees=&labels=enhancement&template=automation-idea.yml&title=%5BPomys%C5%82%5D+
     about: Sugeruj nowy skrypt automatyzacji lub ulepszenie istniejącego.
