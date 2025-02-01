@@ -31,6 +31,6 @@ Tutaj organizuję, rozwijam i aktualizuję swoje narzędzia, aby były jak najba
 - Automatyczna aktualizacja repozytorium  
 - Możliwość zgłaszania propozycji  
 
-💡 **Masz pomysł na nową automatyzację?** Otwórz [issue](https://github.com/twoj-user/automation-hub/issues) i podziel się nim! 🚀  
+💡 **Masz pomysł na nową automatyzację?** Otwórz [issue](https://github.com/XeqaS/xAutomationHub/issues) i podziel się nim! 🚀  
 
 *Projekt dostępny na licencji MIT. Możesz go dowolnie modyfikować i używać do własnych celów.*
